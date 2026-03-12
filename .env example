@@ -1,0 +1,4 @@
+MYSQL_ROOT_PASSWORD=strongrootpassword
+MYSQL_DATABASE=wordpressdb
+MYSQL_USER=wpuser
+MYSQL_PASSWORD=wppassword
